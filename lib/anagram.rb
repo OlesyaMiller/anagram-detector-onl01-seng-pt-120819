@@ -11,5 +11,6 @@ class Anagram
      word.split("").sort.join == @word.split("").sort.join 
     end
   end
+  
 end
 
