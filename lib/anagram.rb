@@ -9,7 +9,7 @@ class Anagram
   def match(array) 
     array.each do |word|
       word.each do |letter|
-        
+        array.find_all {||}
       end
     end
   end
