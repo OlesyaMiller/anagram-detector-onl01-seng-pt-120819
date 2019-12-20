@@ -7,7 +7,11 @@ class Anagram
   end
 
   def match(array) 
-    
+    array.each do |word|
+      word.each do |letter|
+        
+      end
+    end
   end
 end
 
